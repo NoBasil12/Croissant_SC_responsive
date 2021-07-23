@@ -1,0 +1,11 @@
+body{
+    background-color: blanchedalmond !important;
+}
+img{
+    display: block;
+    margin: auto;
+
+}
+h1,p{
+    text-align: center;
+}
